@@ -10,8 +10,8 @@
 <img  align ='left' alt = 'Redis' src = 'https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white' />
 <img  align ='left' alt = 'Tableau' src = 'https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' />
 <img  align ='left' alt = 'Numpy' src = 'https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white' />
+<img  align ='left' alt = 'pandas' src = 'https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' />
 <img  align ='left' alt = 'sci-kit learn' src = 'https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' />
 <img  align ='left' alt = 'Keras' src = 'https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white' />
 <img  align ='left' alt = 'tensorflow' src = 'https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white' />
 <img  align ='left' alt = 'mlflow' src = 'https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue' />
-<img  align ='left' alt = 'pandas' src = 'https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' />
