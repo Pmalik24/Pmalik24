@@ -14,4 +14,4 @@
 <img  align ='left' alt = 'Keras' src = 'https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white' />
 <img  align ='left' alt = 'tensorflow' src = 'https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white' />
 <img  align ='left' alt = 'mlflow' src = 'https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue' />
-<img  align ='left' alt = 'pandas' src = 'https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' />
+<img  align ='right' alt = 'pandas' src = 'https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' />
