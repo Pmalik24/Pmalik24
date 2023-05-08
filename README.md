@@ -1,6 +1,6 @@
 ## Hi there I'm Parth 👋
 <img align ='left' width = '47%' src ='https://github-readme-stats.vercel.app/api?username=PMAlik24&show_icons=true&theme=radical' />
-<img align ='left' width = '48%' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=Pmalik24&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats' />
+<img align ='left' width = '48.4%' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=Pmalik24&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats' />
 
 <img  align ='left' alt = 'Python' src = 'https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' />
 <img  align ='left' alt = 'R' src = 'https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white' />
